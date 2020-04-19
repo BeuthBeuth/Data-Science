@@ -1,4 +1,4 @@
-python_editor = "Visual Sudio Code"
+python_editor = "Visual Studio Code"
 student_data = ["Carsten Brauer", "S8963350", "Sommersemester 2020", "MiMO", "Beuth Hochschule fuer Technik Berlin"]
 tiny_game = "Tic Tac Toe, inspiriert von https://www.python-lernen.de/tic-tac-toe-python-tutorial.htm"
 print(student_data)
